@@ -1,0 +1,4 @@
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\Web_Browser.Form1.resources
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\Web_Browser.Resources.resources
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\Web Browser.vbproj.GenerateResource.Cache

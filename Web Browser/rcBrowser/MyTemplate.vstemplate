@@ -1,0 +1,20 @@
+<VSTemplate Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <DefaultName>rcBrowser.vb</DefaultName>
+    <Name>rcBrowser</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <SortOrder>10</SortOrder>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <References>
+      <Reference>
+        <Assembly>System.Windows.Forms</Assembly>
+      </Reference>
+    </References>
+    <ProjectItem SubType="Form" TargetFileName="$fileinputname$.vb" ReplaceParameters="true">Options.vb</ProjectItem>
+    <ProjectItem SubType="" TargetFileName="$fileinputname$.Designer.vb" ReplaceParameters="true">Options.Designer.vb</ProjectItem>
+    <ProjectItem SubType="" TargetFileName="$fileinputname$.resx" ReplaceParameters="true">Options.resx</ProjectItem>
+  </TemplateContent>
+</VSTemplate>

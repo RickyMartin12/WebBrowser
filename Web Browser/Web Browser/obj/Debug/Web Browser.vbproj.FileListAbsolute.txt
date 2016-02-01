@@ -1,0 +1,171 @@
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Web Browser.exe
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Web Browser.pdb
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Web Browser.xml
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Web_Browser.Form1.resources
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Web_Browser.Resources.resources
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Web Browser.exe
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Web Browser.xml
+C:\Users\rpeleira\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Web Browser.pdb
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+F:\Pap (Projecto Final)\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+F:\Pap (Projecto Final)\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+F:\Pap (Projecto Final)\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web_Browser.AboutBox1.resources
+E:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+E:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+E:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+E:\Pap (Projecto Final)\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+E:\Pap (Projecto Final)\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+E:\Pap (Projecto Final)\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+E:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+E:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web_Browser.AboutBox1.resources
+E:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+E:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+E:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+F:\Pap (Projecto Final)\Web Browser\Web Browser\obj\Debug\Web_Browser.Dialog1.resources
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.AboutBox1.resources
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Dialog1.resources
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\Documents and Settings\Ricardo\Ambiente de trabalho\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+E:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+E:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+E:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+E:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+E:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+E:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+E:\PAP\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+E:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Dialog1.resources
+E:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+E:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+E:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+G:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+G:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+G:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+G:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+G:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+G:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+G:\PAP\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+G:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.AboutBox1.resources
+G:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Dialog1.resources
+G:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+G:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+G:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+G:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+F:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+F:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+F:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+F:\PAP\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Dialog1.resources
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.wEB.resources
+E:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.wEB.resources
+F:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+F:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+E:\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+E:\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+E:\PAP\Web Browser\Web Browser\obj\Debug\GenerateResource.read.1.tlog
+E:\PAP\Web Browser\Web Browser\obj\Debug\GenerateResource.write.1.tlog
+F:\Trabalhos\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+F:\Trabalhos\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+F:\Trabalhos\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+F:\Trabalhos\PAP\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.wEB.resources
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Dialog1.resources
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\GenerateResource.read.1.tlog
+F:\Trabalhos\PAP\Web Browser\Web Browser\obj\Debug\GenerateResource.write.1.tlog
+C:\wamp\www\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\wamp\www\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\wamp\www\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\wamp\www\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\Web_Browser.wEB.resources
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\Web_Browser.Dialog1.resources
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\GenerateResource.read.1.tlog
+C:\wamp\www\Web Browser\Web Browser\obj\Debug\GenerateResource.write.1.tlog
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.wEB.resources
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\GenerateResource.read.1.tlog
+C:\wamp\www\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\GenerateResource.write.1.tlog
+E:\PAP\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+E:\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+E:\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+E:\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.wEB.resources
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\GenerateResource.read.1.tlog
+C:\wamp\www\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\GenerateResource.write.1.tlog
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.vbprojResolveAssemblyReference.cache
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.wEB.resources
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Esparar.resources
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\wamp\www\PAP\PAP\WebSite Blackjack\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache

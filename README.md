@@ -1,6 +1,6 @@
 # Projecto Aptidão Profisional
 
-## Programa WebBrowser Pereililaem Visual Basic.donet
+## Programa WebBrowser Pereilila em Visual Basic.donet
 
 Execute o Programa "WebBrowser.exe"
 
